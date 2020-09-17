@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div class="header-bottom"><!--header-bottom-->
 	<div class="container">
         <ul class="unstyled categories-link d-flex justify-content-center">
@@ -28,4 +29,36 @@
 			</div>
 		</div> -->
 	</div>
+=======
+<div class="header-bottom"><!--header-bottom-->
+	<div class="container">
+        <ul class="unstyled categories-link d-flex justify-content-center">
+            <li><a href="#">Chat</a></li>
+			<li><a href="#">Contacts</a></li>
+            <li><a href="#">Vendors</a></li>
+            <li><a href="#">Fruits & Vegetables</a></li>
+            <li><a href="#">Livestock</a></li>
+            <li><a href="#">Poultry</a></li>
+            <li><a href="#">Fish</a></li>
+        </ul>
+		<!-- <div class="row">
+			<div class="col-sm-9">
+                <div class="shop-menu pull-left">
+					<ul class="nav">
+						<li><a href="#"><i class="fa fa-user"></i> Account</a></li>
+						<li><a href="#"><i class="fa fa-star"></i> Wishlist</a></li>
+						<li><a href="checkout.php"><i class="fa fa-crosshairs"></i> Checkout</a></li>
+						<li><a href="cart.php"><i class="fa fa-shopping-cart"></i> Cart</a></li>
+						<li><a href="login.php"><i class="fa fa-lock"></i> Login</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-sm-3">
+				<div class="search_box pull-right">
+					<input type="text" placeholder="Search"/>
+				</div>
+			</div>
+		</div> -->
+	</div>
+>>>>>>> 11296a39b7585d5fef0f5988d7049f03851232be
 </div><!--/header-bottom-->

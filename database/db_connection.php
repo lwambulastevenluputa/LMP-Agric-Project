@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php 
 
      $servername = "localhost";
@@ -24,4 +25,32 @@
     //    echo 'Error message: ' . mysqli_connect_error() . '<br>';
     //    die();
     // }
+=======
+<?php 
+
+     $servername = "localhost";
+     $username = "root";
+     $password = "";
+     $dbname = "agritech_market";
+
+     /********** Object Oriented *************/ 
+    $conn = new mysqli("$servername", "$username", "$password", "$dbname");
+    if($conn->connect_error) {
+        die("Connection Failed!".$conn->connect_error);
+    }
+
+
+    /************* Procedural ****************/ 
+    // create connection
+    // $conn = mysqli_connect("$servername", "$username", "", "$dbname");
+
+    /* Check if the connection succeeded */
+    // if (!$conn)
+    // {
+    //    echo 'Connection failed<br>';
+    //    echo 'Error number: ' . mysqli_connect_errno() . '<br>';
+    //    echo 'Error message: ' . mysqli_connect_error() . '<br>';
+    //    die();
+    // }
+>>>>>>> 11296a39b7585d5fef0f5988d7049f03851232be
 ?>
