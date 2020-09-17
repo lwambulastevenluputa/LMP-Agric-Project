@@ -2,7 +2,7 @@
 
 <head>
 
-	
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
@@ -59,7 +59,7 @@
 
     nav {
         width: 100%;
-        background-color: #00C853;
+        background-color: #fafafa;
         padding: 5px 15px;
         display: flex;
         border-bottom: 1px solid #BDBDBD;
@@ -538,7 +538,7 @@
         </style>
 
         <div style="margin-top:50px; padding-left: 10%;">
-            <h3>Vegtables</h3>
+            <h3>Vegtable</h3>
         </div>
         <div class="container" id="veg-scroll">
             <img src="img/agri-products/1800x1200_benefits_of_cabbage_slideshow.jpg" alt="Bhutan">
